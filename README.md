@@ -1,5 +1,5 @@
 ## Hi there 👋🏻
-I'm Derek,
+I'm Derek
 
 * 🪄 I have passed the Advanced Wizard Level Test.
 * 🤖 C, C++, Swift, Java, Python
