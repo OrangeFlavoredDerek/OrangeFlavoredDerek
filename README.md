@@ -6,3 +6,5 @@ I'm Derek
 * 📚 I'm currently learing [SwiftUI](https://developer.apple.com/xcode/swiftui/). 
 * 🌱 私は今日本語を勉強しています。
 * ⚡️ Fun fact: my code is written by a cat.
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflavoredderek)](https://github.com/orangeflavoredderek/github-readme-stats)
