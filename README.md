@@ -7,4 +7,4 @@ I'm Derek
 * 🌱 私は今日本語を勉強しています。
 * ⚡️ Fun fact: my code is written by a cat.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflavoredderek&layout=compact)](https://github.com/orangeflavoredderek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflavoredderek&layout=compact&hide=Assembly)](https://github.com/orangeflavoredderek/github-readme-stats)
