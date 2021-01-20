@@ -3,7 +3,7 @@ I'm Derek
 
 * 🪄 I have passed the Advanced Wizard Level Test.
 * 🤖 C, C++, Swift, Java, Python
-* ~📚 I'm currently learing [SwiftUI](https://developer.apple.com/xcode/swiftui/).~
+* 📚 I'm currently learing [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 * 🌱 私は今日本語を勉強しています。
 * ⚡️ Fun fact: my code is written by a cat.
 
